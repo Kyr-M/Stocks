@@ -35,5 +35,5 @@ Enter Stock symbol and export data for specific dates for the current symbol.
 # Option 5:
 Predict future prices from .csv file 
 
-![alt text](https://github.com/Kyr-M/Stocks/blob/main/screenshots/option%205%20
+
 ![alt text](https://github.com/Kyr-M/Stocks/blob/main/screenshots/option%206%20from%20menu.png)
